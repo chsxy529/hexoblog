@@ -637,7 +637,7 @@ math:
 search:
   # 选择：algolia_search / local_search / docsearch
   # 如果不需要搜索功能，保持为空
-  use: 
+  use: local_search
   placeholder:
 
   # Algolia 搜索
@@ -647,6 +647,7 @@ search:
 
   # 本地搜索
   local_search:
+    enable: true
     # 页面加载时预加载搜索数据
     preload: false
     # 每篇文章显示的顶部 n 个搜索结果，设置为 -1 显示所有结果
@@ -1160,7 +1161,7 @@ lightbox: fancybox
 # 系列
 series:
   # 是否启用系列
-  enable: false
+  enable: true
   # 按标题或日期排序
   orderBy: 'title'
   # 排序方式。1, asc 为升序; -1, desc 为降序

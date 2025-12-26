@@ -6,8 +6,13 @@ tags:
 categories: PYTHON
 cover: /img/arbg.png
 top_img: https://i.loli.net/2020/05/01/gkihqEjXxJ5UZ1C.jpg
+
+
+series: 修改定位
+
 ---
 
+{% series %}
 
 
 # GeoPort 使用教程

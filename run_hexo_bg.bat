@@ -10,5 +10,5 @@ for /f "tokens=5" %%a in ('netstat -ano ^| findstr ":4000"') do (
 )
 if "!found!"=="0" echo No process found on port 4000.
 echo Starting hexo commands in background (logs -> hexo_server.log)...
-start "" /B cmd /c "hexo clean && hexo g && hexo s > hexo_server.log 2>&1"
+start "" /B cmd /c "hexo clean && hexo g && hexo s "
 echo Done.
