@@ -1,14 +1,13 @@
 ---
-title:  ios 修改定位
+title: ios 修改定位
 tags:
   - python
   - iphone
 categories: PYTHON
 cover: /img/arbg.png
-top_img: https://i.loli.net/2020/05/01/gkihqEjXxJ5UZ1C.jpg
-
+top_img: 'https://i.loli.net/2020/05/01/gkihqEjXxJ5UZ1C.jpg'
 series: 修改定位
-
+abbrlink: 6bd7aea2
 ---
 {% series %}
 
