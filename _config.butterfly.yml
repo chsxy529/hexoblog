@@ -116,7 +116,7 @@ footer_img: false
 # 网站背景
 # 可以设置为颜色或图片
 # 图片格式: url(http://xxxxxx.com/xxx.jpg)
-background: /img/bg.jpg
+background: 
 
 # 封面设置
 cover:
@@ -1021,7 +1021,7 @@ preloader:
   # 2. 进度条
   source: 1
   # pace 主题 (参见 https://codebyzach.github.io/pace/)
-  pace_css_url:
+  pace_css_url: https://imged.xyzz.qzz.io/file/bed/1766730453785_center-atom.css
 
 # 页面过渡效果
 enter_transitions: true
@@ -1080,23 +1080,23 @@ activate_power_mode:
 # 参见: https://github.com/hustcc/ribbon.js
 canvas_ribbon:
   # 是否启用 canvas_ribbon
-  enable: false
+  enable: true
   # ribbon 的大小
   size: 150
   # ribbon 的不透明度 (0 ~ 1)
   alpha: 0.6
   zIndex: -1
   # 是否点击更改颜色
-  click_to_change: false
+  click_to_change: true
   # 是否在移动设备上启用
   mobile: false
 
 # Fluttering Ribbon
 canvas_fluttering_ribbon:
   # 是否启用 Fluttering Ribbon
-  enable: false
+  enable: true
   # 是否在移动设备上启用
-  mobile: false
+  mobile: true
 
 # canvas_nest
 # https://github.com/hustcc/canvas-nest.js
@@ -1231,7 +1231,7 @@ note:
 # https://github.com/MoOx/pjax
 pjax:
   # 是否启用 pjax
-  enable: false
+  enable: true
   # 排除指定页面不使用 pjax，如 '/music/'
   exclude:
     # - /xxxxxx/
@@ -1239,7 +1239,7 @@ pjax:
 # 注入 CSS 和脚本 (aplayer/meting)
 aplayerInject:
   # 是否启用注入
-  enable: false
+  enable: true
   # 是否每页启用
   per_page: true
 
@@ -1316,7 +1316,9 @@ inject:
   head:
     # - <link rel="stylesheet" href="/xxx.css">
   bottom:
-    # - <script src="xxxx"></script>
+    - <div class="aplayer no-destroy" data-id="11172782" data-server="netease" data-type="playlist" data-fixed="true" data-autoplay="true"> </div>
+
+
 
 # CDN 设置
 # 除非你知道它们的工作原理，否则不要修改以下设置
