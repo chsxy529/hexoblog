@@ -20,9 +20,9 @@ timezone: 'Asia/Shanghai'
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 #url: http://example.com
-# permalink: :year/:month/:day/:title/
-permalink: posts/:abbrlink/ 
-permalink_defaults:
+# permalink: :year/:month/:day/:title/; posts/:abbrlink/ 
+permalink: posts/:year/:month/:day/:abbrlink/ 
+permalink_defaults: 
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
   trailing_html: true # Set to false to remove trailing '.html' from permalinks
@@ -129,3 +129,13 @@ search:
 aplayer:
   meting: true
   asset_inject: false
+
+sitemap:
+  path: 
+    - sitemap.xml
+    - sitemap.txt
+  template: ./sitemap.xml
+  template_txt: ./sitemap.txt
+  rel: false
+  tags: true
+  categories: true
