@@ -1,5 +1,18 @@
 ---
-abbrlink: '0'
+title: Redis入门
+description:  Redis入门简单介绍
+keywords:
+  - Redis
+comments: true
+top_img: 'https://raw.githubusercontent.com/vinceliuice/grub2-themes/master/preview.png'
+mathjax: false
+katex: false
+aside: true
+aplayer: false
+highlight_shrink: false
+abbrlink: 54ff789b
+date: 2026-05-07 16:30:00
+type:
 ---
 [redis]
 
