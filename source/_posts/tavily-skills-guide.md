@@ -1,6 +1,12 @@
 ---
 title: Tavily Skills 完全指南：为 AI Agent 赋予强大的网络搜索与研究能力
-date: 2026-05-08 11:30:00
+description: Tavily Skills五大核心技能详解：网页搜索、内容提取、站点爬取、URL发现和深度研究，附安装配置教程
+keywords:
+  - Tavily
+  - AI Agent
+  - 网页搜索
+  - 内容提取
+  - 站点爬取
 tags:
   - AI
   - Agent
@@ -9,6 +15,8 @@ tags:
   - 工具
 categories:
   - AI 开发
+abbrlink: 11c95aa
+date: 2026-05-08 11:30:00
 ---
 
 # Tavily Skills 完全指南：为 AI Agent 赋予强大的网络搜索与研究能力

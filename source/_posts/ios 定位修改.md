@@ -1,8 +1,15 @@
 ---
-title: ios 修改定位
+title: iOS虚拟定位教程：GeoPort使用指南
+description: 使用GeoPort工具在iPhone上模拟任意全球位置，无需越狱，支持iOS 17/18，包含安装配置和常见问题
+keywords:
+  - iOS虚拟定位
+  - GeoPort
+  - iPhone定位修改
+  - 位置模拟
 tags:
-  - python
-  - iphone
+  - Python
+  - iPhone
+  - iOS
 categories: PYTHON
 cover: /img/arbg.png
 top_img: 'https://i.loli.net/2020/05/01/gkihqEjXxJ5UZ1C.jpg'

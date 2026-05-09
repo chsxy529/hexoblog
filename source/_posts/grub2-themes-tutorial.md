@@ -1,16 +1,22 @@
 ---
 title: GRUB2 美化主题安装教程
-date: 2026-05-07 16:30:00
-type:
 description: 详细介绍如何安装和配置 vinceliuice/grub2-themes 项目提供的现代 GRUB2 引导界面主题
-keywords: [GRUB2, 主题美化, Linux, 引导界面, grub2-themes]
+keywords:
+  - GRUB2
+  - 主题美化
+  - Linux
+  - 引导界面
+  - grub2-themes
 comments: true
-top_img: https://raw.githubusercontent.com/vinceliuice/grub2-themes/master/preview.png
+top_img: 'https://raw.githubusercontent.com/vinceliuice/grub2-themes/master/preview.png'
 mathjax: false
 katex: false
 aside: true
 aplayer: false
 highlight_shrink: false
+abbrlink: 54ff789b
+date: 2026-05-07 16:30:00
+type:
 ---
 
 # GRUB2 美化主题安装教程

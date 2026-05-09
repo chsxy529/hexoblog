@@ -1,8 +1,15 @@
 ---
-title: iPhone ios 修改定位
+title: GeoPort详细教程：iPhone定位修改完全指南
+description: GeoPort虚拟定位工具的详细使用教程，涵盖USB/Wi-Fi连接、轨迹回放、GPX导入导出及故障排查
+keywords:
+  - iPhone定位修改
+  - GeoPort
+  - 虚拟定位
+  - GPS模拟
 tags:
-  - python
-  - iphone
+  - Python
+  - iPhone
+  - iOS
 categories: PYTHON
 cover: /img/arbg.png
 top_img: 'https://i.loli.net/2020/05/01/gkihqEjXxJ5UZ1C.jpg'

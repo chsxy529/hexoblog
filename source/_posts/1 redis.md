@@ -1,6 +1,6 @@
 ---
 title: Redis入门
-description:  Redis入门简单介绍
+description: Redis入门简单介绍
 keywords:
   - Redis
 comments: true
@@ -10,6 +10,7 @@ katex: false
 aside: true
 aplayer: false
 highlight_shrink: false
+abbrlink: 6a343b7f
 date: 2026-05-07 16:30:00
 type:
 ---
