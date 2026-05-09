@@ -950,6 +950,8 @@ ad:
 # --------------------------------------
 
 site_verification:
+  - name: google-adsense-account
+    content: ca-pub-4947489144550085
   # 示例：
   # - name: google-site-verification
   #   content: xxxxxx
