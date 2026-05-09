@@ -941,7 +941,7 @@ ad:
   # 在首页每三个帖子后插入广告
   index:
   # 在侧边栏插入广告
-  aside:
+  aside: true
   # 在文章分页前插入广告
   post:
 
