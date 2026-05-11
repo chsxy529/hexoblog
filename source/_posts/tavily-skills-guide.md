@@ -16,7 +16,7 @@ tags:
 categories:
   - AI 开发
 abbrlink: 11c95aa
-date: 2026-05-08 11:30:00
+date: 2026-05-10 10:12:11
 ---
 
 # Tavily Skills 完全指南：为 AI Agent 赋予强大的网络搜索与研究能力
