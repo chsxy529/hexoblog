@@ -1,5 +1,6 @@
 ---
 title: GeoPort详细教程：iPhone定位修改完全指南
+date: 2025-12-23 17:17:00
 description: GeoPort虚拟定位工具的详细使用教程，涵盖USB/Wi-Fi连接、轨迹回放、GPX导入导出及故障排查
 keywords:
   - iPhone定位修改

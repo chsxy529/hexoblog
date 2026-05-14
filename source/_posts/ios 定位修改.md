@@ -1,5 +1,6 @@
 ---
 title: iOS虚拟定位教程：GeoPort使用指南
+date: 2025-12-23 17:17:00
 description: 使用GeoPort工具在iPhone上模拟任意全球位置，无需越狱，支持iOS 17/18，包含安装配置和常见问题
 keywords:
   - iOS虚拟定位
